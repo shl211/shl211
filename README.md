@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning SQL
 
 <!-- Github Stats -->
-  [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shl211)](https://github.com/anuraghazra/github-readme-stats)
+  [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shl211)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
