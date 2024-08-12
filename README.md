@@ -2,7 +2,7 @@
 
 - I'm an Aeronautical Engineering student looking to transition into the software engineering (I've simply had more fun on my computing courses than anything else on my course)
 - 🔭 I’m currently working on a Python framework to investigate co-design optimisation of a morphing drone
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Javascript and SQL
 
 <!-- Github Stats -->
 [![Stephen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shl211&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
