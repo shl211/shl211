@@ -1,6 +1,6 @@
 ## Hi , I'm Stephen 👋
 
-- I'm an Aeronautical Engineering student looking to transition into the software engineering (I've simply had more fun on my computing courses than anything else on my course)
+- I'm an Aeronautical Engineering student looking to transition into the software engineering
 - 🔭 I’m currently working on a Python framework to investigate co-design optimisation of a morphing drone
 - 🌱 I’m currently learning Javascript and SQL
 
