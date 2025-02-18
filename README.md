@@ -1,8 +1,6 @@
 ## Hi , I'm Stephen 👋
 
-- I'm an Aeronautical Engineering student looking to transition into the software engineering
-- 🔭 I’m currently working on a Python framework to investigate co-design optimisation of a morphing drone
-- 🌱 I’m currently learning Javascript and SQL
+- I'm an Aeronautical Engineering student transitioning into software engineering
 
 <!-- Github Stats -->
 [![Stephen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shl211&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
